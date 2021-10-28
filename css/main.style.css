@@ -1,0 +1,113 @@
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+
+/* reaset */
+
+@media (max-width: 800px) {
+    /*  */
+    /* home page css */
+    /*  */
+    .home {
+        padding-top: 70px;
+        max-width: 99%;
+        text-align: center;
+    }
+    .master {
+        padding: 0 8px 0 0;
+        display: inline-block;
+        max-width: 110px;
+        text-align: center;
+    }
+    .circ {
+        align-self: center;
+    }
+    .headd {
+        height: 23px;
+        max-width: 110;
+        font-size: 20px;
+        font-weight: 800;
+    }
+    /*  */
+    /* service page css */
+    /*  */
+    .backbtn {
+        padding: 20px 0 0 10px;
+        position: fixed;
+        color: white;
+        font-size: 25px;
+    }
+    .dd-conts {
+        font-size: 15px;
+        color: #001e22;
+        position: fixed;
+        top: 79px;
+        right: 20px;
+    }
+    .servi {
+        /* padding-top: 70px; */
+        background-color: rgb(223, 241, 243);
+        /* height: 89.4vh;
+        width: 100%; */
+        text-align: center;
+    }
+    .servi-svg {
+        height: auto;
+        width: auto;
+        padding: 150px 0 0 60px;
+    }
+    .servi-h3 {
+        color: black;
+    }
+    .creat-btn {
+        padding: 100px 0 0 0;
+        color: #0095a8;
+    }
+    .hashtag {
+        color: rgb(128, 128, 128);
+    }
+    /*  */
+    /* saved page css */
+    /*  */
+    .saved-name {
+        font-size: 25px;
+        color: white;
+        font-weight: 700;
+        position: fixed;
+        left: 40px;
+        cursor: pointer;
+        top: 20px;
+    }
+    /*  */
+    /* about */
+    /*  */
+    .profile {
+        padding-top: 100px;
+        padding-bottom: 40px;
+    }
+    .proimg {
+        color: #0094a8;
+        font-size: 80px;
+        padding-bottom: 20px;
+    }
+    .username {
+        color: black;
+    }
+    /*  */
+    /* contact */
+    /*  */
+    .contact-home {
+        padding-top: 100px;
+        max-width: 99%;
+        color: black;
+        text-align: center;
+    }
+    .feedback {
+        padding-bottom: 20px;
+    }
+    #name {
+        padding-left: 5px;
+    }
+}

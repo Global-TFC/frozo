@@ -1,0 +1,32 @@
+/* home section start */
+
+
+/* homebar start */
+
+.secondbar {
+    position: fixed;
+    left: 45px;
+    top: 70px;
+    width: 100%;
+    height: 30px;
+    background-color: #b9eeeb;
+    text-align: center;
+}
+
+.bartext1 {
+    margin-right: 50%;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.bartext2 {
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.section {
+    background-color: rgb(255, 181, 181);
+    position: fixed;
+    top: 10%;
+    left: 2%;
+}
